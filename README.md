@@ -1,3 +1,4 @@
+![](https://img.shields.io/cocoapods/l/NRVQA.svg?style=flat)
 # NRVQA
 
 > 本科毕业设计-用户生成内容视频客观质量评价方法研究
