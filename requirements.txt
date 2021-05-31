@@ -1,5 +1,6 @@
 h5py==2.10.0
+numpy==1.19.2
 Pillow==8.2.0
-tensorflow==2.3.0
+scikit-video==1.1.11
 torch==1.8.1
 torchvision==0.9.1
