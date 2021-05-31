@@ -5,7 +5,8 @@
 
 网络结构如下图，改进部分为CNN提取，使用了ResNet50和DenseNet101进行，改进神经网络降维部分，并使用LSTM来进行提取时序关系
 
-![未命名文件 (3)](C:\Users\14842\Desktop\未命名文件 (3).jpg)
+
+![未命名文件 (3)](https://user-images.githubusercontent.com/36041684/120127571-493e5400-c1f2-11eb-9962-3d57c0eecd90.jpg)
 
 代码部分分为两部
 
